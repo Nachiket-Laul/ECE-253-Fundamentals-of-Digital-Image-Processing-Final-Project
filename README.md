@@ -3,7 +3,7 @@ ECE 253 DIP final project, Old Photo Restoration and Enhancement
 
 To clone this repository:
 ```bash
-git clone <repository_url> <your_preferred_location>
+git clone [<repository_url> <your_preferred_location>](https://github.com/Nachiket-Laul/ECE-253-Fundamentals-of-Digital-Image-Processing-Final-Project.git)
 ```
 
 For best results, use high-resolution scanned images.
