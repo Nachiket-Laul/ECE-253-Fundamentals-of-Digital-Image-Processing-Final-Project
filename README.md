@@ -1,5 +1,5 @@
 # ECE-253-Fundamentals-of-Digital-Image-Processing-Final-Project
-ECE 253 course of UCSD final project, Old Photo Restoration and Enhancement
+ECE 253 DIP final project, Old Photo Restoration and Enhancement
 
 For best results, use high-resolution scanned images.
 ## 🔧 Installation
