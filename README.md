@@ -36,7 +36,7 @@ python Comparison_between_methodologies_for_traditional_pipeline.py
 - For best results, use high-resolution scanned images.
 
 
-## ⭐ Special Credits
+## ⭐ Acknowledgements
 The GFPGAN is implemented using the the code in https://github.com/TencentARC/GFPGAN.git which is also forked in our profile.
 
 You can try implementing the GFPGAN first and then the traditional pipeline for better results.
