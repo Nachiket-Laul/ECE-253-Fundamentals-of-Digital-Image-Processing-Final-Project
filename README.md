@@ -29,8 +29,8 @@ python Comparison_between_methodologies_for_traditional_pipeline.py
 ```
 ## 📝 Note
 
-- Ensure the input image path is correctly specified in the script before execution for the Traditional_Pipeline_for_restoration_and_enhancement.py.
-- Ensure the input image folder path name and output folder name is correctly specified in the script Comparison_between_methodologies_for_traditional_pipeline.py.
+- Ensure the input image name and path is correctly specified in the script before execution for the Traditional_Pipeline_for_restoration_and_enhancement.py.
+- Ensure the old_photos folder path name and output folder name is correctly specified in the script Comparison_between_methodologies_for_traditional_pipeline.py.
 - The restoration quality depends on the level of degradation in the input image.
 - Parameter values may need slight tuning for different photographs.
 - For best results, use high-resolution scanned images.
