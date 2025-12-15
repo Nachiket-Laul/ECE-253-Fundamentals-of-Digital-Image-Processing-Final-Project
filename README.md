@@ -38,6 +38,7 @@ python Comparison_between_methodologies_for_traditional_pipeline.py
 
 ## ⭐ Acknowledgements
 The GFPGAN is implemented using the the code in https://github.com/TencentARC/GFPGAN.git which is also forked in our profile.
+We have used the pretrained version GFPGANv1.3.pth from the above repository.
 
 You can try implementing the GFPGAN first and then the traditional pipeline for better results.
 
