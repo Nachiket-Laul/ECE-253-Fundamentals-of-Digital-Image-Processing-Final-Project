@@ -8,7 +8,7 @@ For best results, use high-resolution scanned images.
 Open the VS Code terminal using **Ctrl + `** and run:
 
 ```bash
-pip install opencv-python numpy ```
+pip install opencv-python numpy 
 
 ## ▶️ Running the Code
 As per the requirement run the Traditional_Pipeline_for_restoration_and_enhancement.py for a single image restoration and enhancement.
