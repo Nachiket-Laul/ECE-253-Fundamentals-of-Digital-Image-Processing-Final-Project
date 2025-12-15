@@ -35,6 +35,6 @@ The GFPGAN is implemented using the the code in https://github.com/TencentARC/GF
 
 You can try implementing the GFPGAN first and then the traditional pipeline for better results.
 
-
+```
 
 
