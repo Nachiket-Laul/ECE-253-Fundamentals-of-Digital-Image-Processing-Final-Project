@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # === Step 1: Read Image ===
-img = cv2.imread('Input image')
+img = cv2.imread('Input_image.jpg')
 if img is None:
     raise ValueError("Image not found!")
 
@@ -65,3 +65,4 @@ cv2.imwrite("restored_old_photo_clahe.jpg", clahe_img)
 cv2.imwrite("restored_photo_final.jpg", final)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
